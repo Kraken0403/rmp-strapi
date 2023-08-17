@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_blogparaone_blog_para_ones",
+  "info": {
+    "displayName": "BlogParaOne",
+    "icon": "write"
+  },
+  "options": {},
+  "attributes": {
+    "blogParaOneRich": {
+      "type": "richtext"
+    }
+  }
+}
