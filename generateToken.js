@@ -11,3 +11,7 @@ console.log('Generated Salt:', salt);
 
 const adminAuthSecret = crypto.randomBytes(32).toString('base64');
 console.log('Generated Admin Auth Secret:', adminAuthSecret);
+
+
+const transferSalt = crypto.randomBytes(32).toString('base64');
+console.log('transferSalt:', transferSalt);
